@@ -1,12 +1,11 @@
 CRE-cases
-Code and data forCollision Risk Envelopes：A Novel Framework for Accurate Pedestrian-Autonomous Vehicle Interaction Risk Evaluation
+Code and data for Collision Risk Envelopes：A Novel Framework for Accurate Pedestrian-Autonomous Vehicle Interaction Risk Evaluation
 
 # Advanced Risk Model Analyzer
-An interactive desktop application for the analysis and visualization of vehicle-pedestrian interaction data. This tool calculates, compares, and dynamically visualizes three key traffic safety risk models: Time-to-Collision (TTC), Collision Risk Estimate (CRE), and Driving Safety Field (DSF).
+An interactive desktop application for the analysis and visualization of vehicle-pedestrian interaction data. This tool calculates, compares, and dynamically visualizes three key traffic safety risk models: Time-to-Collision (TTC), Collision Risk Envelopes (CRE), and Driving Safety Field (DSF).
 
 ## Overview
 The primary goal of this project is to provide traffic safety researchers with an intuitive tool to analyze complex interaction scenarios. By loading trajectory data, the application automatically generates a synchronized animation of the event alongside real-time plots of the risk metrics, offering deep insights into the temporal and spatial evolution of risk.
-(Note: You should replace `docs/screenshot.png` with the actual path to your application's screenshot.)
 
 
 ### Prerequisites
