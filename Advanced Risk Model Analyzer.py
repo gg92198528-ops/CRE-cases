@@ -18,7 +18,7 @@ class RiskModelVisualizer(tk.Tk):
         style = ttk.Style(self)
         style.configure('.', font=('Arial', 10))
         
-        self.title("Advanced Risk Model Analyzer")
+        self.title("Risk Model Analyzer")
         self.geometry("1600x900")
 
         self.df = None
@@ -445,4 +445,5 @@ class RiskModelVisualizer(tk.Tk):
 
 if __name__ == "__main__":
     app = RiskModelVisualizer()
+
     app.mainloop()
